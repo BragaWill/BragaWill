@@ -1,7 +1,14 @@
 
 <h3>Olá 👋 me chamo Willian M. Braga.</h3>
 
-<p>Sou graduado em Sistemas de Informação pela UFMS.<br> Meus interesses são em engenharia de software em geral. :bar_chart: :books:.</p>
+
+<p>Sou graduado em Sistemas de Informação pela UFMS.<br> Tenho interesses em linguagens de programação, frameworks e engenharia de software em geral. :bar_chart: :books:.</p>
+
+<p>
+  Contador de visitas:
+
+  ![Visitor Count](https://profile-counter.glitch.me/bragawill/count.svg)
+</p>
 
 <h4>:computer: Princiais tecnologias</h4>
 
